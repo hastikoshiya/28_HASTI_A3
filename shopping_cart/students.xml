@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<students>
+  <student>
+    <id>7</id>
+    <name>Aman Mirza</name>
+    <email>amanmirza0408@gmail.com</email>
+    <course>MSc ICT</course>
+  </student>
+  <student>
+    <id>8</id>
+    <name>Rahul Patel</name>
+    <email>mirza@gamil.com</email>
+    <course>BCA</course>
+  </student>
+  <student>
+    <id>9</id>
+    <name>Prachi Solanki</name>
+    <email>prachi@gmail.com</email>
+    <course>BSc IT</course>
+  </student>
+</students>
